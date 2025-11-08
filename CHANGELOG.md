@@ -1,0 +1,62 @@
+- release
+- Merge pull request #38 from DigitaleGesellschaft/yaml_validation
+- add expected output in the readme (#35)
+- fix: update to v4
+- add validation for paragraph strings
+- cleanup typescript stuff added before
+- remove yaml config from earlier code state
+- chore: lint
+- chore: add tests in CI
+- fix: privacystatment should be an array
+- chore: add type parkingprovider
+- fix: make variables key optional as in code where it is checked
+- chore: add desire validation and test history schema with date string
+- fix: update lockfile after rebase
+- chore: adapt schemas and pass tests
+- feat: add test cases to validate yaml files
+- init
+- added type <parkingprovider> and org <bernbahnhofparkingag>
+- Adjustments saldo (#29)
+- added Medgate AG
+- fix: lockfileVersion@v3 warning
+- fix: Update actions/setup-node
+- ci: create build artifact
+- fix: remove data.json
+- fix: Remove deployment in CI
+- fix: yamllinter errors
+- fix: shortened display label of letter type
+- ext: description to create list of datasets to check for timeliness and current list of datasets
+- upd: npm dependencies
+- fix: add base letter supporting data urls from previous tool version
+- fix: shortening ui button labels
+- fix: renaming of category
+- Revert "fix: shortening ui button labels"
+- R2023.09 (#22)
+- fix: mark future targeting as removed
+- Future Targeting ist nicht mehr aktiv
+- Haushaltstreffer-Absatz für Intrum (#17)
+- Create Byjuno.yml
+- Create Yuh.yml (#15)
+- Add: type «online» for Swiss Post
+- remove: Mindful
+- Create Ticketino.yml (#11)
+- Create Ticketmaster.yml (#12)
+- Create See Tickets.yml (#13)
+- Update yamllint new-line-at-end-of-file: disable
+- Update yamllint new-line-at-end-of-file: disable
+- Update Mindful.yml
+- readme: add org history example
+- remove: mark MS Direct, Rohner Direktpartner, Walter Schmid AG as removed
+- remove: mark Tanatek as removed
+- Update README.md
+- Update deployStaging.yml
+- Create data.json
+- Update deployStaging.yml
+- Update deployStaging.yml
+- Delete data.json
+- Update deployStaging.yml
+- Automated Change
+- Update deployStaging.yml
+- Update README.md
+- Add empty data.json
+- init
